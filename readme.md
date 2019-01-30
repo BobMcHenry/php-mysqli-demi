@@ -1,1 +1,1 @@
-#Mysqli
+# Mysqli basic demo for PHP
